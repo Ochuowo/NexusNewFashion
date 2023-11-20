@@ -1756,7 +1756,6 @@ input, select, textarea {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		transform: translate(-50%, -50%); /* Center the loader */
 	}
 	
 	@keyframes spin {
@@ -2923,7 +2922,6 @@ input, select, textarea {
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			transform: translate(-50%, -50%); /* Center the loader */
 		  }
 
 		  @keyframes spin {
